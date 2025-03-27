@@ -1,1 +1,1 @@
-
+PRINT "yaaaa"
